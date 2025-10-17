@@ -1,0 +1,40 @@
+{
+  "setting": {
+    "emailInform": {
+      "sw": 0,
+      "smtpHost": "",
+      "smtpPort": "",
+      "email": "",
+      "password": ""
+    },
+    "aiSetting": {
+      "aiType": "CHATGLM",
+      "API_KEY": "db5302625189ae4abb262d9a43e8d5c2.XQOV1QZYQErv4oir"
+    }
+  },
+  "users": [
+
+    {
+      "accountType": "YINGHUA",
+      "url": "https://nhjcxy.hongmukej.com/",
+      "account": "2023039215",
+      "password": "a092514",
+
+
+
+      "coursesCustom": {
+        "videoModel": 1,
+        "autoExam": 1,
+        "excludeCourses": [],
+        "includeCourses": [ "科学计算与MATLAB语言" ],
+        "coursesSettings": [
+          {
+            "name": "",
+            "includeExams": [ "", "试卷名称2" ],
+            "excludeExams": [ "试卷名称3", "试卷名称4" ]
+          }
+        ]
+      }
+    }
+  ]
+}
